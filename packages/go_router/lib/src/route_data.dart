@@ -122,7 +122,7 @@ abstract class GoRouteData extends RouteData {
       redirect: redirect,
       routes: routes,
       parentNavigatorKey: parentNavigatorKey,
-      onExit: onExit,
+      // onExit: onExit,
     );
   }
 
