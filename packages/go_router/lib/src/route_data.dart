@@ -175,7 +175,7 @@ abstract class GoRouteData extends _GoRouteDataBase {
       redirect: params.redirect,
       routes: routes,
       parentNavigatorKey: parentNavigatorKey,
-      onExit: params.onExit,
+      // onExit: params.onExit,
     );
   }
 
